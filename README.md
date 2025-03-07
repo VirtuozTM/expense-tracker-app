@@ -1,6 +1,8 @@
 # 📱 Application Mobile de Suivi Financier
 
-![{BD986562-A221-4531-944D-50C8C3425855}](https://github.com/user-attachments/assets/61325501-51fb-4d1c-8043-21ea99ba8439)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64c44a9f-3f2f-4ed5-8a08-d5464bec7cba" alt="Aperçu de l'application">
+</p>
 
 ## 📌 Objectif
 
