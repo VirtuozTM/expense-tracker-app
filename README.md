@@ -74,6 +74,9 @@ Voici un aperçu des dépendances utilisées dans le projet :
 Si vous avez des questions ou suggestions, n'hésitez pas à me contacter ! 😊
 
 **Armand PETIT**
+
 🖥️ Développeur React Native
+
 📧 [armand_petit@outlook.fr](mailto:armand_petit@outlook.fr)
+
 📅 [Réserver un appel](https://calendly.com/armand_petit/30min)
