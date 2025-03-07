@@ -56,6 +56,7 @@ Voici un aperçu des dépendances utilisées dans le projet :
 ### 1️⃣ Cloner le projet
 
 `git clone https://github.com/VirtuozTM/expense-tracker-app-rn.git`
+
 `cd nom-du-projet`
 
 ### 2️⃣ Installer les dépendances
