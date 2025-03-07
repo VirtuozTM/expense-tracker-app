@@ -1,5 +1,7 @@
 # 📱 Application Mobile de Suivi Financier
 
+![{BD986562-A221-4531-944D-50C8C3425855}](https://github.com/user-attachments/assets/61325501-51fb-4d1c-8043-21ea99ba8439)
+
 ## 📌 Objectif
 
 Cette application mobile permet de suivre ses finances de manière intuitive et efficace. Grâce à une interface fluide et des outils avancés, elle aide à mieux gérer son budget, catégoriser ses transactions et analyser ses dépenses et revenus.
